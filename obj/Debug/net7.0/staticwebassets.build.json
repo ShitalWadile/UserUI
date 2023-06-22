@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WYHlsQuKbPXFqYgav8RiiznrBlc/YhOcjUmessuDQfE=",
+  "Source": "Azure_Portal",
+  "BasePath": "_content/Azure_Portal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
